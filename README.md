@@ -1,6 +1,6 @@
 # API Restfull - Gestión de Postulaciones
 
-Una API RESTful creada para la administración y registro de las empresas para el seguimiento de mis postulaciones, construida con arquitectura de microservicios. Este proyecto muestra la implementación de un CRUD (aún en desarrollo), usando una base de datos temporal (H2 DataBase)
+Una API RESTful creada para la administración y registro de las empresas con el fin de dar seguimiento a mis postulaciones, construida con arquitectura de microservicios. Este proyecto muestra la implementación de un CRUD (aún en desarrollo), usando una base de datos temporal (H2 DataBase)
 
 ## Demostración
 https://github.com/user-attachments/assets/e4e64a1c-dcca-4010-8354-4f4d62bc003d

@@ -3,9 +3,12 @@
 Una API RESTful creada para la administración y registro de las empresas para el seguimiento de mis postulaciones, construida con arquitectura de microservicios. Este proyecto muestra la implementación de un CRUD (aún en desarrollo), usando una base de datos temporal (H2 DataBase)
 
 ## Demostración
+https://github.com/user-attachments/assets/88d38b54-acec-4d9b-be6e-83150694eae2
+
+
 
 ## Tecnologías Utilizadas 
-* **Java 17**
+* **Java 25**
 * **Spring Boot 3** (Spring Web, Spring Data JPA)
 * **H2 Database** (Base de datos relacional en memoria)
 * **Lombok** (Reducción de código boilerplate)
